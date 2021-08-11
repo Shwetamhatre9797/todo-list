@@ -1,0 +1,21 @@
+div {
+    background-color: powderblue;
+}
+h1 {
+    text-align: center;
+    color: blue;
+
+}
+.navbar-brand {
+    background-color: palevioletred;
+}
+#navbarNav{
+    background-color: palevioletred;
+
+}
+
+h4 {
+    text-align: center;
+    color: blue;
+    font-style: italic;
+}
